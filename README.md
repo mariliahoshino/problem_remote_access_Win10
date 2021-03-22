@@ -43,5 +43,7 @@ After, restart the computer and try again remote access
 source<br>
 https://answers.microsoft.com/pt-br/windows/forum/windows_10-files/problema-compartilhamento-windows-10/3c2accd0-82c4-4d8a-8d89-323cf546e5dc <br>
 
+http://windowsbulletin.com/pt/how-to-fix-account-restrictions-are-preventing-this-user-from-signing-in/#February_2021_Update <br>
+
 
 
