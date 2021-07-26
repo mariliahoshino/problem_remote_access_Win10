@@ -1,6 +1,10 @@
 # problem_remote_access_Win10
 problem with remote access in Windows 10
 
+
+### <a href="https://github.com/mariliahoshino"> My profile </a> <br>
+
+<!--
 ### My profile in 
 
 <a href="https://www.linkedin.com/in/mariliahoshino/"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_linkedin.png?raw=true" height="50" widht="400"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -8,7 +12,7 @@ problem with remote access in Windows 10
 <a href="https://www.instagram.com/mari.zeniti/"><img src = "https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_instagram.png?raw=true"  height="50" widht="400"></a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://www.facebook.com/mari.zeniti"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_facebook.png?raw=true"   height="50" widht="400"></a>  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 <a href="https://linktr.ee/mariliah"><img src="https://github.com/mariliahoshino/mariliahoshino/blob/master/profile/logo_linktree.png?raw=true"   height="50" widht="400"></a>
-
+-->
 
 
 After Updates, I have problem with Remote Access and Share HDD on LAN <br>
